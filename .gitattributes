@@ -1,0 +1,18 @@
+*.html linguist-vendored
+
+*.woff2 binary
+
+node_modules/* linguist-vendored
+*.ts linguist-detectable
+vendor/* linguist-vendored
+
+*.md linguist-documentation
+
+*.jpg binary
+
+*.map linguist-generated
+
+*.tsx linguist-detectable
+
+dist/* linguist-vendored  
+# eof f4f1d7f7
